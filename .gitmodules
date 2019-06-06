@@ -1,0 +1,3 @@
+[submodule "question/type/easyomechjs"]
+	path = question/type/easyomechjs
+url=git clone git@bitbucket.org:beknouse/moodle-qtype_easyomechjs.git
